@@ -1,0 +1,30 @@
+{
+  "name": "prismic-contentful-migration",
+  "version": "1.0.0",
+  "description": "Scripted migration for Contentful from Prismic from NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osehmathais/prismic-contentful-migration.git"
+  },
+  "keywords": [
+    "contentful",
+    "prismic",
+    "cms",
+    "migration"
+  ],
+  "author": "Oseh Mathias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osehmathais/prismic-contentful-migration/issues"
+  },
+  "homepage": "https://github.com/osehmathais/prismic-contentful-migration#readme",
+  "dependencies": {
+    "@prismicio/client": "^6.5.1",
+    "@prismicio/helpers": "^2.3.0",
+    "node-fetch": "^3.2.5"
+  }
+}
