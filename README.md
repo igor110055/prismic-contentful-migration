@@ -22,15 +22,33 @@ You can [get NVM here](https://github.com/nvm-sh/nvm).
 
 #### 3. Install the Prismic CLI and log in
 
-Install:
+Install the Prismic CLI:
 
 `npm install -global prismic-cli`
 
-Log in:
+Log in to Prismic:
 
 `prismic login`
 
 This will open a browser prompt where you can log in to Prismic.
+
+#### 4. Install the Contentful CLI and log in
+
+Install the Contentful CLI:
+
+`npm install -g contentful-cli`
+
+Log in to Contentful:
+
+`contentful login`
+
+This will open a browser window where you can log in to Contentful. The access token that is generated will grant you permissions to the space that your account has permissions for.
+
+After you log in, you will receive an access token. Copy this and paste it into the terminal. You are logged in. The token is saved on your system.
+
+You can log out with:
+
+`contentful logout`
 
 ### Running a Migration
 
