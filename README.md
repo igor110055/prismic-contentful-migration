@@ -1,14 +1,6 @@
 # Migration Script from Prismic to Contentful
 
-### Requirements:
-
-- Node JS 18
-
-You can [get NodeJS 18 here](https://nodejs.org/en/download/current/).
-
-It is advised to use NVM to switch between versions. You can [get NVM here](https://github.com/nvm-sh/nvm).
-
-### Running a Migration
+## Running a Migration
 
 This script has been set up for the following types:
 
@@ -28,7 +20,15 @@ where `${type}` is one of the content types described above and
 
 where `${lang}` is the language ID for a locale in Prismic
 
-### Set Up
+## Set Up
+
+### Requirements:
+
+- Node JS 18
+
+You can [get NodeJS 18 here](https://nodejs.org/en/download/current/).
+
+It is advised to use NVM to switch between versions. You can [get NVM here](https://github.com/nvm-sh/nvm).
 
 #### 1. Clone the Repository
 
