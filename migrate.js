@@ -33,7 +33,41 @@ const init = async () => {
     priority: results.data.priority,
   }
 
-  console.log(document)
+  // FILTER SECTIONS THAT HAVE BODY TEXT
+  function filterBody(content) {
+    return content.primary.body
+  }
+  var body = results.data.body.filter(filterBody)
+  body = body.map((sections) => {
+    if (sections.slice_type === 'youtube_video') {
+      return {
+        type: 'youtube_video',
+        content: [{ url: sections }],
+      }
+    } else if (sections.slice_type === 'text_section') {
+      return {
+        type: 'text_section',
+        content: sections.primary.body.map((section) => {
+          return {
+            text: section.text,
+            type: section.type,
+          }
+        }),
+      }
+    } else if (sections.slice_type === 'info_text') {
+      return {
+        type: 'info_text',
+        content: sections.primary.body.map((section) => {
+          return {
+            text: section.text,
+            type: section.type,
+          }
+        }),
+      }
+    }
+  })
+
+  console.log(body)
 }
 
 init()
