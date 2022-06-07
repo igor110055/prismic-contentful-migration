@@ -70,14 +70,7 @@ const init = async () => {
     }
   })
 
-  console.log(
-    richText({
-      data: {},
-      marks: [],
-      value: 'this is text',
-      nodeType: 'text',
-    })
-  )
+  console.log(document, body)
 }
 
 init()

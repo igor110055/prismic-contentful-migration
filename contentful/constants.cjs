@@ -7,7 +7,16 @@ module.exports = {
         {
           nodeType: 'paragraph',
           data: {},
-          content: [content],
+          content: [
+            content,
+            // CONTENT MUST BE IN THE FOLLOWING SHAPE
+            // {
+            //   data: {},
+            //   marks: [],
+            //   value: 'this is text',
+            //   nodeType: 'text',
+            // }
+          ],
         },
       ],
     }
