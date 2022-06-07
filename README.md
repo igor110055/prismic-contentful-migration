@@ -91,3 +91,62 @@ PRISMIC_REPOSITORY
 CONTENTFUL_SPACE_ID
 CONTENTFUL_SPACE_ENVIRONMENT
 ```
+
+## SAMPLE OUTPUT
+
+```
+{
+  uid: 'cosmostation',
+  firstPublished: '2022-04-14T09:45:27+0000',
+  lastPublished: '2022-06-06T10:32:24+0000',
+  seo: {
+    title: 'How to Connect Cosmostation and Koinly',
+    description: 'Connect Cosmostation to Koinly in minutes! Follow our step by step instructions and get your Cosmostation taxes done fast!'
+  },
+  name: 'Cosmostation',
+  type: 'Wallets',
+  icon: {
+    alt: 'Cosmostation Wallet Logo',
+    url: 'https://images.prismic.io/koinly-marketing/8b5ce3d2-7948-4ad1-b7bf-f3e1d89f0d85_Cosmostation.png?auto=compress,format'
+  },
+  hasCsv: true,
+  hasApi: true,
+  priority: null
+} [
+  { type: 'youtube_video', content: [ [Object] ] },
+  { type: 'text_section', content: [ [Object], [Object] ] },
+  {
+    type: 'text_section',
+    content: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ]
+  },
+  { type: 'info_text', content: [ [Object] ] },
+  {
+    type: 'text_section',
+    content: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  },
+  { type: 'info_text', content: [ [Object] ] },
+  {
+    type: 'text_section',
+    content: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ]
+  }
+]
+```

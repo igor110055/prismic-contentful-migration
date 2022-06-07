@@ -3,17 +3,19 @@ import * as prismic from '@prismicio/client'
 import fetch from 'node-fetch'
 import minimist from 'minimist'
 
-// PRISMIC SETTINGS
+// PRISMIC SETTINGS //
+
 const repoName = process.env.PRISMIC_REPOSITORY
 const endpoint = prismic.getEndpoint(repoName)
 const client = prismic.createClient(endpoint, { fetch })
 
-// PARSE ARG FLAGS
+// PARSE ARG FLAGS //
 const args = minimist(process.argv)
 
-// GET CONTENT FROM PRISMIC
+// GET CONTENT FROM PRISMIc //
 const init = async () => {
   const results = await client.getSingle(args.t, { lang: args.l })
+  // CONSTRUCT THE DOCUMENT //
   const document = {
     uid: results.uid,
     firstPublished: results.first_publication_date,
@@ -33,12 +35,8 @@ const init = async () => {
     priority: results.data.priority,
   }
 
-  // FILTER SECTIONS THAT HAVE BODY TEXT
-  function filterBody(content) {
-    return content.primary.body
-  }
-  var body = results.data.body.filter(filterBody)
-  body = body.map((sections) => {
+  // FILTER SECTIONS THAT HAVE BODY TEXT //
+  var body = results.data.body.map((sections) => {
     if (sections.slice_type === 'youtube_video') {
       return {
         type: 'youtube_video',
@@ -67,7 +65,7 @@ const init = async () => {
     }
   })
 
-  console.log(body)
+  console.log(document, body)
 }
 
 init()
