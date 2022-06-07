@@ -6,9 +6,27 @@
 
 You can [get NodeJS 18 here](https://nodejs.org/en/download/current/).
 
-It is advised to use NVM to switch between versions.
+It is advised to use NVM to switch between versions. You can [get NVM here](https://github.com/nvm-sh/nvm).
 
-You can [get NVM here](https://github.com/nvm-sh/nvm).
+### Running a Migration
+
+This script has been set up for the following types:
+
+- accountant
+- blogpost
+- country
+- integration
+- page
+
+To run a migration, use this command:
+
+```
+node migrate.js -t ${type} -l {lang}
+```
+
+where `${type}` is one of the content types described above and
+
+where `${lang}` is the language ID for a locale in Prismic
 
 ### Set Up
 
@@ -73,23 +91,3 @@ PRISMIC_REPOSITORY
 CONTENTFUL_SPACE_ID
 CONTENTFUL_SPACE_ENVIRONMENT
 ```
-
-### Running a Migration
-
-This script has been set up for the following types:
-
-- accountant
-- blogpost
-- country
-- integration
-- page
-
-To run a migration, use this command:
-
-```
-node migrate.js -t ${type} -l {lang}
-```
-
-where `${type}` is one of the content types described above and
-
-where `${lang}` is the language ID for a locale in Prismic
