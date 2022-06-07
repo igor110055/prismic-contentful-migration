@@ -14,21 +14,29 @@ You can [get NVM here](https://github.com/nvm-sh/nvm).
 
 #### 1. Clone the Repository
 
-`git clone git@github.com:osehmathias/prismic-contentful-migration.git`
+```
+git clone git@github.com:osehmathias/prismic-contentful-migration.git
+```
 
 #### 2. Install NPM Packages
 
-`npm i`
+```
+npm i
+```
 
 #### 3. Install the Prismic CLI and log in
 
 Install the Prismic CLI:
 
-`npm install -global prismic-cli`
+```
+npm install -global prismic-cli
+```
 
 Log in to Prismic:
 
-`prismic login`
+```
+prismic login
+```
 
 This will open a browser prompt where you can log in to Prismic.
 
@@ -36,11 +44,15 @@ This will open a browser prompt where you can log in to Prismic.
 
 Install the Contentful CLI:
 
-`npm install -g contentful-cli`
+```
+npm install -g contentful-cli
+```
 
 Log in to Contentful:
 
-`contentful login`
+```
+contentful login
+```
 
 This will open a browser window where you can log in to Contentful. The access token that is generated will grant you permissions to the space that your account has permissions for.
 
@@ -48,7 +60,19 @@ After you log in, you will receive an access token. Copy this and paste it into 
 
 You can log out with:
 
-`contentful logout`
+```
+contentful logout
+```
+
+#### 5. Create a .env at the root of the project
+
+Create a `.env` file at the root of the project which has the following values:
+
+```
+PRISMIC_REPOSITORY
+CONTENTFUL_SPACE_ID
+CONTENTFUL_SPACE_ENVIRONMENT
+```
 
 ### Running a Migration
 
@@ -62,7 +86,9 @@ This script has been set up for the following types:
 
 To run a migration, use this command:
 
-`node migrate.js -t ${type} -l {lang}`
+```
+node migrate.js -t ${type} -l {lang}
+```
 
 where `${type}` is one of the content types described above and
 

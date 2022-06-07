@@ -1,13 +1,17 @@
+import 'dotenv/config'
 import * as prismic from '@prismicio/client'
-import * as prismicH from '@prismicio/helpers'
 import fetch from 'node-fetch'
 import minimist from 'minimist'
 
-const repoName = 'koinly-marketing'
+// PRISMIC SETTINGS
+const repoName = process.env.PRISMIC_REPOSITORY
 const endpoint = prismic.getEndpoint(repoName)
 const client = prismic.createClient(endpoint, { fetch })
+
+// PARSE ARG FLAGS
 const args = minimist(process.argv)
 
+// GET CONTENT FROM PRISMIC
 const init = async () => {
   const results = await client.getSingle(args.t, { lang: args.l })
   const document = {
