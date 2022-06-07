@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/osehmathais/prismic-contentful-migration.git"
@@ -25,6 +26,7 @@
   "dependencies": {
     "@prismicio/client": "^6.5.1",
     "@prismicio/helpers": "^2.3.0",
+    "minimist": "^1.2.6",
     "node-fetch": "^3.2.5"
   }
 }
