@@ -2,6 +2,7 @@ import 'dotenv/config'
 import * as prismic from '@prismicio/client'
 import fetch from 'node-fetch'
 import minimist from 'minimist'
+const { runMigration } = require('contentful-migration')
 import { richText } from './contentful/constants.cjs'
 
 // PARSE ARG FLAGS
@@ -74,3 +75,37 @@ const init = async () => {
 }
 
 init()
+
+///////////////////////////////////
+// CONTENTFUL CONFIGURATION
+
+// MIGRATION FUNCTION
+
+function migrationFunction(migration, context) {
+  migration.transformEntries({
+    contentType: 'newsArticle',
+    from: ['author', 'authorCity'],
+    to: ['byline'],
+    transformEntryForLocale: function (fromFields, currentLocale) {
+      if (currentLocale === 'en-US') {
+        return
+      }
+      const newByline = `${fromFields.author[currentLocale]} ${fromFields.authorCity[currentLocale]}`
+      return { byline: newByline }
+    },
+  })
+}
+
+// OPTIONS
+
+const options = {
+  migrationFunction,
+  spaceId: process.env.CONTENTFUL_SPACE_ID,
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+}
+
+// MIGRATE THE FILE
+
+runMigration(options)
+  .then(() => console.log('Migration Done!'))
+  .catch((e) => console.error(e))

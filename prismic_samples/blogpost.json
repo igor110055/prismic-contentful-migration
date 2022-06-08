@@ -1,0 +1,307 @@
+{
+    "id": "YYPWgBIAACIAC96g",
+    "uid": "how-to-avoid-crypto-taxes-uk",
+    "url": null,
+    "type": "blogpost",
+    "href": "https://koinly-marketing.cdn.prismic.io/api/v2/documents/search?ref=YppafBEAACEAsgwj&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YYPWgBIAACIAC96g%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2021-11-04T15:31:46+0000",
+    "last_publication_date": "2022-06-02T05:21:07+0000",
+    "slugs": [
+        "take-advantage-of-tax-free-thresholds",
+        "hold-for-a-year",
+        "hold-on"
+    ],
+    "linked_documents": [],
+    "lang": "en-gb",
+    "alternate_languages": [],
+    "data": {
+        "title": "How to Avoid Crypto Taxes in the UK - Legally",
+        "image": {
+            "dimensions": {
+                "width": 2600,
+                "height": 800
+            },
+            "alt": null,
+            "copyright": null,
+            "url": "https://images.prismic.io/koinly-marketing/a9e88316-b056-432f-b3fd-5385494555ae_Koinly+Crypto+Tax+Calculator+Pay+Less+Tax+UK.png?auto=compress,format"
+        },
+        "category": {
+            "id": "YAAOsBAAAEqR7F5B",
+            "type": "page",
+            "tags": [],
+            "lang": "en-gb",
+            "slug": "blog-list-blog-folder",
+            "first_publication_date": "2021-01-14T09:28:52+0000",
+            "last_publication_date": "2021-02-09T10:14:31+0000",
+            "uid": "blog",
+            "link_type": "Document",
+            "isBroken": false
+        },
+        "root": true,
+        "date": "2022-05-31",
+        "excerpt": [
+            {
+                "type": "paragraph",
+                "text": "Want to avoid paying taxes on crypto gains. Here's 8 tax-minimising tactics you can make use of.",
+                "spans": []
+            }
+        ],
+        "body": [
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "type": "Default",
+                    "body": [
+                        {
+                            "type": "paragraph",
+                            "text": "Want to avoid paying taxes on crypto gains made between April 2020 and April 2021? There are ways to strategically - and legally - avoid your crypto taxes while keeping Her Majesty’s Revenue and Customs (HMRC) off your back. Here's 8 tax-minimising tactics you can make use of before 31 January 2022 rolls around.",
+                            "spans": []
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Take advantage of tax-free thresholds",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Here's a bit of good news. As a UK resident you only have to pay Capital Gains Tax on your overall gains above your tax-free allowance of £12,300 (called the Annual Exempt Amount) ",
+                            "spans": [
+                                {
+                                    "start": 158,
+                                    "end": 178,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/capital-gains-tax/allowances",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Staring at the possibility of a crypto income tax bill? In addition, to the CGT allowance, British crypto taxpayers can make use of the standard Personal Allowance is £12,570, which is the amount of income you don't have to pay tax on. Knowing the tax-free maximums that are available to you is a good way to determine your crypto disposal strategy and hence, actively optimise your taxable position. ",
+                            "spans": [
+                                {
+                                    "start": 32,
+                                    "end": 55,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/blog/101-crypto-income-tax/",
+                                        "target": "_blank"
+                                    }
+                                },
+                                {
+                                    "start": 145,
+                                    "end": 174,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/income-tax-rates",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Use the trading and property tax break",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Earnt less than £1,000 in crypto income? You don't need to declare it to HMRC. Every UK taxpayer gets a tax free allowance of £1,000 on trading and property. If you're investing in both, you get a £2,000 allowance.",
+                            "spans": []
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Invest crypto into a pension fund",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Wondering if you can hold cryptocurrency investments in a SIPP or ISA? Will crypto invested in a pension fund bring welcome tax relief? In the UK, it's a possibility - although it's not a straightforward process and something to check with your financial advisor.",
+                            "spans": []
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Switch your tax rate",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "If you have the luxury of time on your side, you can always try to wait out a lower tax rate. Perhaps you've taken a strategic salary cut, are about to retire, or are headed back to school. If you're able to move to a lower tax rate, timing your crypto disposals to coincide is an effective tax-reduction tactic.",
+                            "spans": []
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Make a crypto donation",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Yes, your cryptocurrency donation is tax deductible in the UK! If you don’t need all of the profit from your crypto investment, you can lower your capital gains tax burden by donating at least some of your crypto to charity. You’ll get a deduction worth the full value of your crypto, including any capital gains - provided the charity is registered, and that the donation is not made to someone connected to the donor, set to receive a financial advantage directly or indirectly from the charity.",
+                            "spans": [
+                                {
+                                    "start": 25,
+                                    "end": 51,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/capital-gains-tax/gifts",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Gift crypto to your significant other ",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Coupled up? Depending on the country you pay tax in you might be able to offload some of your crypto assets to your husband or wife or civil partner - tax-free. In the UK for example, transfers between spouses is currently exempt from CGT, under a tax-free gift loophole. ",
+                            "spans": [
+                                {
+                                    "start": 168,
+                                    "end": 170,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 240,
+                                    "end": 261,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/capital-gains-tax/gifts",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "This means that the ownership of assets can be transferred between partners so that both of your annual CGT allowances can be used against gains. This effectively doubles the CGT allowance for married couples and civil partners to £24,600. As per the HMRC, to use this benefit you can't be separated or living apart.",
+                            "spans": [
+                                {
+                                    "start": 251,
+                                    "end": 315,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/capital-gains-tax/gifts",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "The transfer is said to occur at 'no gain, no loss' because the recipient inherits the base cost of the asset being transferred.",
+                            "spans": []
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Invest in an opportunity-zone fund",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "UK investors can defer a chunk of their crypto tax bill by investing in one of two government schemes.  Gains made on investments in an Enterprise Investment Scheme (EIS) and Social Investment Tax Relief (SITR) are free from CGT if held for three or more years.",
+                            "spans": [
+                                {
+                                    "start": 136,
+                                    "end": 170,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/guidance/venture-capital-schemes-tax-relief-for-investors",
+                                        "target": "_blank"
+                                    }
+                                },
+                                {
+                                    "start": 175,
+                                    "end": 210,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.gov.uk/guidance/venture-capital-schemes-tax-relief-for-investors",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading1",
+                            "text": "Use a crypto tax calculator to spot unrealised losses",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "It's unlikely you'll be able to spot crypto tax reducing opportunities if you don't know how your portfolio is looking. The HRMC recommends that crypto investors use a crypto tax app like Koinly to pay the right amount of taxes. But crypto tax software is just as good at helping you to pay less tax, when you use it strategically. ",
+                            "spans": [
+                                {
+                                    "start": 168,
+                                    "end": 182,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 168,
+                                    "end": 182,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/tax/",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "For example, say you've got a high Capital Gains Tax bill on the horizon. Jump into your portfolio dashboard on Koinly and look at your unrealised crypto losses. If you’ve got coins that are underperforming, you can sell at a loss. This turns them into realised losses, which you can offset against your capital gains to reduce your tax bill. This is also known as tax loss harvesting.",
+                            "spans": [
+                                {
+                                    "start": 112,
+                                    "end": 118,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/",
+                                        "target": "_blank"
+                                    }
+                                },
+                                {
+                                    "start": 136,
+                                    "end": 160,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/blog/crypto-tax-unrealized-gains/",
+                                        "target": "_blank"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "slice_type": "post_section",
+                "slice_label": null
+            }
+        ],
+        "meta_title": "How to legally avoid UK crypto taxes | Koinly",
+        "meta_description": "Want to avoid paying taxes on crypto? Or reduce capital gains tax? Learn the top strategies you can use to lower your UK bitcoin tax bill, legally.",
+        "canonical_url": {
+            "link_type": "Web",
+            "url": "https://koinly.io/how-to-avoid-crypto-taxes-uk/"
+        },
+        "jsonld": []
+    }
+}

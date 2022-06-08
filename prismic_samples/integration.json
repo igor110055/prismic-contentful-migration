@@ -1,0 +1,412 @@
+{
+    "id": "YpSC3BEAACMAl9E5",
+    "uid": "ioc",
+    "url": null,
+    "type": "integration",
+    "href": "https://koinly-marketing.cdn.prismic.io/api/v2/documents/search?ref=YppafBEAACEAsgwj&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YpSC3BEAACMAl9E5%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-05-30T09:54:16+0000",
+    "last_publication_date": "2022-06-01T14:30:06+0000",
+    "slugs": [
+        "io-coin-is-a-decentralized-open-source-blockchain-protocol-with-its-own-native-cryptocurrency--ioc-coin.--it-is-a-privacy-based-cryptocurrency-that-provides-private-and-transparent-transactions.-while-all-io-coin-payments-are-published-on-a-public-blockchain-the-sender-recipient-and-amount-of-the-transaction-remain-private.",
+        "are-you-investing-in-io-coin-whether-youre-trading-staking-or-farming---its-incredibly-easy-to-do-your-crypto-taxes-with-koinly.",
+        "are-you-investing-in-blockchain-whether-youre-trading-staking-or-farming---its-incredibly-easy-to-do-your-crypto-taxes-with-koinly."
+    ],
+    "linked_documents": [],
+    "lang": "en-gb",
+    "alternate_languages": [],
+    "data": {
+        "name": "I/O Coin (IOC)",
+        "integration_type": "Blockchains",
+        "icon": {
+            "dimensions": {
+                "width": 400,
+                "height": 400
+            },
+            "alt": "I/O Coin (IOC) logo",
+            "copyright": null,
+            "url": "https://images.prismic.io/koinly-marketing/cb2f1a82-b185-46ab-bac2-9a024cdb84b9_I%3AO+Coin+%28IOC%29+logo.jpeg?auto=compress,format"
+        },
+        "hasCsv": true,
+        "hasApi": true,
+        "priority": null,
+        "body": [
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "body": [
+                        {
+                            "type": "heading3",
+                            "text": "I/O Coin is a decentralized, open-source blockchain protocol with its own native cryptocurrency -IOC coin.  It is a privacy-based cryptocurrency that provides private and transparent transactions. While all I/O Coin payments are published on a public blockchain, the sender, recipient, and amount of the transaction remain private.",
+                            "spans": [
+                                {
+                                    "start": 158,
+                                    "end": 159,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "If you're investing in I/O Coin? Why not make your crypto taxes easier by connecting with Koinly? To get started, all you have to do is connect Koinly to the I/O Coin blockchain via your public address or CSV file upload. After you've connected, using your imported transaction history, Koinly automatically calculates all your gains, income and expenses with easy-to-spot totals ready for your tax return. At tax time, all you will need to do is download the Koinly tax report for your country and you’ll be ready to file!",
+                            "spans": [
+                                {
+                                    "start": 158,
+                                    "end": 167,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 187,
+                                    "end": 201,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 205,
+                                    "end": 220,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "slice_type": "text_section",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "body": [
+                        {
+                            "type": "heading2",
+                            "text": "How to find your I/O Coin public address",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 40,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "You can find your public address in the wallet you use to interact with I/O Coin. We have instructions on how to do this for a variety of popular wallets on our integration pages.",
+                            "spans": [
+                                {
+                                    "start": 72,
+                                    "end": 82,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 160,
+                                    "end": 179,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 161,
+                                    "end": 178,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/integrations/"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Please note: remember to complete this step for every wallet you use to interact with I/O Coin, that way Koinly will be able to calculate your crypto taxes correctly.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 12,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 47,
+                                    "end": 96,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Once you've found your public address, here’s how to connect to Koinly.",
+                            "spans": []
+                        }
+                    ]
+                },
+                "slice_type": "text_section",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "body": [
+                        {
+                            "type": "heading2",
+                            "text": "How to connect I/O Coin to Koinly via API",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 41,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "heading3",
+                            "text": "On Koinly",
+                            "spans": []
+                        },
+                        {
+                            "type": "o-list-item",
+                            "text": "Sign up or login into Koinly and head to the wallets page.",
+                            "spans": [
+                                {
+                                    "start": 45,
+                                    "end": 53,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 45,
+                                    "end": 52,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://app.koinly.io/p/wallets"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "o-list-item",
+                            "text": "Select add new wallet in the top right corner.",
+                            "spans": [
+                                {
+                                    "start": 7,
+                                    "end": 21,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "o-list-item",
+                            "text": "In the search bar, search for I/O Coin.",
+                            "spans": [
+                                {
+                                    "start": 7,
+                                    "end": 17,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 30,
+                                    "end": 38,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "o-list-item",
+                            "text": "Select I/O Coin.",
+                            "spans": [
+                                {
+                                    "start": 7,
+                                    "end": 15,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "o-list-item",
+                            "text": "Enter your I/O Coin public address.",
+                            "spans": [
+                                {
+                                    "start": 11,
+                                    "end": 35,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "o-list-item",
+                            "text": "Select import.",
+                            "spans": [
+                                {
+                                    "start": 7,
+                                    "end": 13,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "slice_type": "text_section",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "body": [
+                        {
+                            "type": "heading2",
+                            "text": "How to connect I/O Coin to Koinly via CSV",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 41,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "All you need to do is export a CSV file of your transaction history from the I/O Coin wallet that you’re using. That's all you need to connect with Koinly. We’ve got instructions on how to get a CSV file from a number of crypto wallets on our integration pages.",
+                            "spans": [
+                                {
+                                    "start": 77,
+                                    "end": 93,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 97,
+                                    "end": 98,
+                                    "type": "strong"
+                                },
+                                {
+                                    "start": 243,
+                                    "end": 260,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/integrations/"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "slice_type": "text_section",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "body": [
+                        {
+                            "type": "heading2",
+                            "text": "How do I troubleshoot my I/O Coin integration to Koinly?",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 56,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "Having trouble connecting? Not to worry - there’s plenty of help available:",
+                            "spans": []
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Visit our help forum to see if any of our guides have the answers.",
+                            "spans": [
+                                {
+                                    "start": 10,
+                                    "end": 20,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://help.koinly.io/en/"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Hit up our discussion boards - someone else might have resolved the same issue already.",
+                            "spans": [
+                                {
+                                    "start": 11,
+                                    "end": 28,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://discuss.koinly.io/"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Ask us on social media - we’re on Twitter and Reddit.",
+                            "spans": [
+                                {
+                                    "start": 34,
+                                    "end": 41,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://twitter.com/koinly"
+                                    }
+                                },
+                                {
+                                    "start": 46,
+                                    "end": 52,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://www.reddit.com/r/koinly/"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Contact us on email or live chat.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 10,
+                                    "type": "hyperlink",
+                                    "data": {
+                                        "link_type": "Web",
+                                        "url": "https://koinly.io/contact/"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "slice_type": "text_section",
+                "slice_label": null
+            }
+        ],
+        "meta_title": "How To Connect  I/O Coin (IOC) with Koinly",
+        "meta_description": "I/O Coin pairs perfectly with Koinly to make crypto tax easy! 🤝 Connect  I/O Coin to Koinly to quickly calculate your taxes. ⚡ Just follow a few simple steps!",
+        "canonical_url": {
+            "link_type": "Any"
+        }
+    }
+}

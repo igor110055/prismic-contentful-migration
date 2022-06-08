@@ -26,7 +26,10 @@
   "dependencies": {
     "@prismicio/client": "^6.5.1",
     "@prismicio/helpers": "^2.3.0",
+    "contentful-batch-libs": "^9.4.1",
+    "contentful-migration": "^4.9.1",
     "dotenv": "^16.0.1",
+    "get-urls": "^11.0.0",
     "minimist": "^1.2.6",
     "node-fetch": "^3.2.5"
   }

@@ -1,0 +1,68 @@
+{
+    "id": "YZ5W0BYAACoA0jCd",
+    "uid": "australia",
+    "url": null,
+    "type": "country",
+    "href": "https://koinly-marketing.cdn.prismic.io/api/v2/documents/search?ref=YppafBEAACEAsgwj&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22YZ5W0BYAACoA0jCd%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2021-11-24T15:15:15+0000",
+    "last_publication_date": "2022-05-19T04:57:51+0000",
+    "slugs": [
+        "crypto-accountants-in-australia",
+        "crypto-accountants-in-south-africa"
+    ],
+    "linked_documents": [],
+    "lang": "en-gb",
+    "alternate_languages": [],
+    "data": {
+        "name": "Australia",
+        "country-code": "au",
+        "body": [
+            {
+                "variation": "withH1",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "tag": null,
+                    "title": [
+                        {
+                            "type": "heading2",
+                            "text": "Crypto Accountants in Australia",
+                            "spans": []
+                        }
+                    ],
+                    "subtitle": [
+                        {
+                            "type": "paragraph",
+                            "text": "Find a certified tax professional specializing in cryptocurrency taxes to help with your declarations. We only list CPAs, crypto accountants and attorneys. All companies listed here are well versed with cryptocurrency trading, mining and other forms of crypto income.",
+                            "spans": []
+                        }
+                    ],
+                    "hasDarkBackground": null,
+                    "centered": true
+                },
+                "slice_type": "section_header",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "category": null
+                },
+                "slice_type": "accountants_list",
+                "slice_label": null
+            }
+        ],
+        "meta_title": "Cryptocurrency Tax Accountants in Australia",
+        "meta_description": "Directory of crypto and bitcoin tax accountants and CPAs in Australia.",
+        "canonical_url": {
+            "link_type": "Any"
+        }
+    }
+}

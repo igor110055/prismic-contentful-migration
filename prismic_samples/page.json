@@ -1,0 +1,687 @@
+{
+    "id": "Yo4UuxEAACMAe096",
+    "uid": "india-tax",
+    "url": null,
+    "type": "page",
+    "href": "https://koinly-marketing.cdn.prismic.io/api/v2/documents/search?ref=YppafBEAACEAsgwj&q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22Yo4UuxEAACMAe096%22%29+%5D%5D",
+    "tags": [],
+    "first_publication_date": "2022-06-01T15:29:41+0000",
+    "last_publication_date": "2022-06-01T15:29:41+0000",
+    "slugs": [
+        "1-cryptocurrency-tax-software-in-india",
+        "1-cryptocurrency-tax-software-in-australia"
+    ],
+    "linked_documents": [],
+    "lang": "en-gb",
+    "alternate_languages": [],
+    "data": {
+        "page_type": null,
+        "body": [
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "flags": "in",
+                    "tag": null,
+                    "heading": [
+                        {
+                            "type": "heading1",
+                            "text": "#1 Cryptocurrency Tax Software in India",
+                            "spans": [
+                                {
+                                    "start": 34,
+                                    "end": 39,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ],
+                    "subheading": [
+                        {
+                            "type": "paragraph",
+                            "text": "Don't get stung! Let Koinly calculate your crypto taxes & reduce your ITD tax bill. Simple & Reliable.",
+                            "spans": [
+                                {
+                                    "start": 70,
+                                    "end": 74,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Income Tax Department compliant ",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 21,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Free report preview",
+                            "spans": []
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "One-click ITD tax form generation",
+                            "spans": [
+                                {
+                                    "start": 10,
+                                    "end": 14,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "",
+                            "spans": []
+                        },
+                        {
+                            "type": "heading6",
+                            "text": "Disclaimer: Koinly is not involved in the crypto exchange business and does not pertain to purchasing, holding, or exchanging cryptocurrencies. ",
+                            "spans": []
+                        }
+                    ],
+                    "primaryCta": "Calculate Your Taxes",
+                    "primaryCtaLink": {
+                        "link_type": "Web",
+                        "url": "https://app.koinly.io/signup"
+                    },
+                    "secondaryCta": null,
+                    "secondaryCtaLink": {
+                        "link_type": "Any"
+                    },
+                    "image": {
+                        "dimensions": {
+                            "width": 800,
+                            "height": 594
+                        },
+                        "alt": "Cryptocurrency tax calculator for India",
+                        "copyright": null,
+                        "url": "https://images.prismic.io/koinly-marketing/c9e4b467-942f-4dae-95a4-8c43e9b689c7_dashboard.webp?auto=compress,format"
+                    },
+                    "imgClasses": "country-dashboard-img",
+                    "trustpilot": "See our {count} reviews on"
+                },
+                "slice_type": "main_hero",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "title1": [
+                        {
+                            "type": "heading2",
+                            "text": "Did you receive a letter from the ITD?",
+                            "spans": []
+                        }
+                    ],
+                    "desc1": [
+                        {
+                            "type": "paragraph",
+                            "text": "The Income Tax Department has sent out letters to thousands of crypto traders in the last few months.",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "If you are one of the (un)lucky ones then the task of getting your transaction history sorted for multiple years can seem daunting.",
+                            "spans": []
+                        }
+                    ],
+                    "title2": [
+                        {
+                            "type": "heading1",
+                            "text": "No need to worry!",
+                            "spans": []
+                        }
+                    ],
+                    "desc2": [
+                        {
+                            "type": "paragraph",
+                            "text": "Koinly has been built from the ground up to help cryptocurrency investors - just like you - get their taxes in order.",
+                            "spans": []
+                        },
+                        {
+                            "type": "paragraph",
+                            "text": "All you have to do is import your transaction history from your exchanges / wallets and let Koinly handle the rest!",
+                            "spans": []
+                        }
+                    ],
+                    "image": {
+                        "dimensions": {
+                            "width": 970,
+                            "height": 578
+                        },
+                        "alt": "Review of Koinly",
+                        "copyright": null,
+                        "url": "https://images.prismic.io/koinly-marketing/c9ec329e-b78d-41ec-9215-5915e7dbf4fc_c43c033d-512f-4d0c-97bd-c24fc35488d1.png?auto=compress,format"
+                    },
+                    "imageHeight": null
+                },
+                "slice_type": "pain_points",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "tag": null,
+                    "title": [
+                        {
+                            "type": "heading1",
+                            "text": "How Koinly simplifies your taxes...",
+                            "spans": [
+                                {
+                                    "start": 11,
+                                    "end": 21,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ],
+                    "subtitle": [],
+                    "hasDarkBackground": null,
+                    "centered": true
+                },
+                "slice_type": "section_header",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "tag": null,
+                    "stepNumber": 1,
+                    "title": [
+                        {
+                            "type": "heading1",
+                            "text": "Easily import your trading history",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Koinly can pull data automatically from Indian exchanges like WazirX, ZebPay and others.",
+                            "spans": []
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "DeFi, Margin trades & Futures. Whether you are staking on Kraken, lending on Nexo or going long on BitMEX. Koinly can handle it all.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 30,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Smart transfer matching. Koinly uses AI to detect transfers between your own wallets and keep track of your original cost.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 24,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ],
+                    "linkText": [
+                        {
+                            "type": "heading1",
+                            "text": "Supports 300+ exchanges & wallets",
+                            "spans": []
+                        }
+                    ],
+                    "link": {
+                        "id": "YAFIPBAAAEK08b0p",
+                        "type": "page",
+                        "tags": [],
+                        "lang": "en-gb",
+                        "slug": "import-from-anywhere",
+                        "first_publication_date": "2021-01-15T07:46:19+0000",
+                        "last_publication_date": "2021-11-01T09:17:30+0000",
+                        "uid": "integrations",
+                        "link_type": "Document",
+                        "isBroken": false
+                    },
+                    "image": {
+                        "dimensions": {
+                            "width": 2168,
+                            "height": 1250
+                        },
+                        "alt": "Koinly integration with crypto wallets and exchanges",
+                        "copyright": null,
+                        "url": "https://images.prismic.io/koinly-marketing/cbef546e-1ea6-49bb-8ad2-73295801789d_add-wallets.png?auto=compress,format"
+                    },
+                    "videoPath": "/assets/vid/add-wallets.mp4",
+                    "videoAutoplay": true,
+                    "imageOnLeftSide": false,
+                    "imageWithShadow": true,
+                    "textCenteredVertically": null,
+                    "hasDarkBackground": null
+                },
+                "slice_type": "section_with_image",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "tag": null,
+                    "stepNumber": 2,
+                    "title": [
+                        {
+                            "type": "heading1",
+                            "text": "Preview your capital gains",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Get a glimpse of your profit/loss for any tax year - for free!",
+                            "spans": []
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Portfolio tracking. See your total holdings, ROI and growth over time on a beautiful dashboard.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 19,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Profit/loss & capital gains. Easily see how much you are up or down. View realized and unrealized capital gains.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 28,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ],
+                    "linkText": [
+                        {
+                            "type": "heading1",
+                            "text": "Explore all features",
+                            "spans": []
+                        }
+                    ],
+                    "link": {
+                        "id": "X-bmsBEAAHha66KY",
+                        "type": "page",
+                        "tags": [],
+                        "lang": "en-gb",
+                        "slug": "the-cryptocurrency-tax-calculator-youll-enjoy-using",
+                        "first_publication_date": "2020-12-27T06:13:49+0000",
+                        "last_publication_date": "2021-03-15T16:51:24+0000",
+                        "uid": "features",
+                        "link_type": "Document",
+                        "isBroken": false
+                    },
+                    "image": {
+                        "dimensions": {
+                            "width": 2638,
+                            "height": 1548
+                        },
+                        "alt": "example tax report",
+                        "copyright": null,
+                        "url": "https://images.prismic.io/koinly-marketing/ebc9a15d-9822-42ba-9526-973d54839629_tax-reports-page.png?auto=compress,format"
+                    },
+                    "videoPath": "/assets/vid/portfolio-and-tax-reports.mp4",
+                    "videoAutoplay": false,
+                    "imageOnLeftSide": false,
+                    "imageWithShadow": true,
+                    "textCenteredVertically": null,
+                    "hasDarkBackground": null
+                },
+                "slice_type": "section_with_image",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "tag": null,
+                    "stepNumber": 3,
+                    "title": [
+                        {
+                            "type": "heading1",
+                            "text": "Download your tax documents",
+                            "spans": []
+                        }
+                    ],
+                    "description": [
+                        {
+                            "type": "paragraph",
+                            "text": "Whether you are filing yourself, using a tax software like TurboTax or working with an accountant. Koinly can generate the right crypto tax reports for you.",
+                            "spans": []
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Capital gains report Download your capital gains report which shows your short and long term gains separately.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 21,
+                                    "type": "strong"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "list-item",
+                            "text": "Comprehensive tax report. Generate a full crypto tax report with all your disposals. Guaranteed to pass audits.",
+                            "spans": [
+                                {
+                                    "start": 0,
+                                    "end": 25,
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ],
+                    "linkText": [
+                        {
+                            "type": "heading1",
+                            "text": "View sample reports",
+                            "spans": []
+                        }
+                    ],
+                    "link": {
+                        "id": "X-q73BEAANmF_HGf",
+                        "type": "page",
+                        "tags": [],
+                        "lang": "en-gb",
+                        "slug": "bitcoin-tax-reports-that-are-compliant-with-local-laws",
+                        "first_publication_date": "2020-12-29T05:17:23+0000",
+                        "last_publication_date": "2021-11-29T08:27:25+0000",
+                        "uid": "tax",
+                        "link_type": "Document",
+                        "isBroken": false
+                    },
+                    "image": {
+                        "dimensions": {
+                            "width": 1000,
+                            "height": 558
+                        },
+                        "alt": "Download crypto tax report",
+                        "copyright": null,
+                        "url": "https://images.prismic.io/koinly-marketing/7ec7efb2-ade4-46b9-a43b-9ffc0bdf7028_tax-reports-dl.png?auto=compress,format"
+                    },
+                    "videoPath": "/assets/vid/tax-reports-dl.mp4",
+                    "videoAutoplay": false,
+                    "imageOnLeftSide": false,
+                    "imageWithShadow": true,
+                    "textCenteredVertically": null,
+                    "hasDarkBackground": null
+                },
+                "slice_type": "section_with_image",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {
+                        "text": [
+                            {
+                                "type": "paragraph",
+                                "text": "Huge time saver when it comes to taxes, very customizable and useful in planning next trades",
+                                "spans": []
+                            }
+                        ],
+                        "author": "Oliver Morrison",
+                        "location": "Sydney",
+                        "stars": 5
+                    },
+                    {
+                        "text": [
+                            {
+                                "type": "paragraph",
+                                "text": "Finally a tool that can handle DeFi operations properly! Very happy so far",
+                                "spans": []
+                            }
+                        ],
+                        "author": "Jack Mundey",
+                        "location": "Melbourne",
+                        "stars": 4
+                    },
+                    {
+                        "text": [
+                            {
+                                "type": "paragraph",
+                                "text": "Uploading data was very straightforward and easy. Will definitely be back next year!",
+                                "spans": []
+                            }
+                        ],
+                        "author": "Ken Wyatt",
+                        "location": "Melbourne",
+                        "stars": 5
+                    }
+                ],
+                "primary": {},
+                "slice_type": "reviews_section",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {}
+                ],
+                "primary": {
+                    "tag": null,
+                    "title": [
+                        {
+                            "type": "heading1",
+                            "text": "Popular questions",
+                            "spans": []
+                        }
+                    ],
+                    "subtitle": [],
+                    "hasDarkBackground": null,
+                    "centered": false
+                },
+                "slice_type": "section_header",
+                "slice_label": null
+            },
+            {
+                "variation": "default-slice",
+                "version": "sktwi1xtmkfgx8626",
+                "items": [
+                    {
+                        "question": [
+                            {
+                                "type": "heading2",
+                                "text": "Are cryptocurrencies taxed in India?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "Yes, India's Minister of Finance has advised that all cryptocurrencies including NFTs are classified as Virtual Digital Assets and taxed as income.",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "question": [
+                            {
+                                "type": "heading2",
+                                "text": "How much tax will I pay on crypto in India?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "Profit from the transfer of any virtual digital asset is taxed at the rate of 30%. This rate is the same as India's top income tax bracket.",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "question": [
+                            {
+                                "type": "heading2",
+                                "text": "Can crypto be taxed as a capital asset?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "No. Crypto gains are solely viewed as income in India. There is no opportunity to treat cryptocurrency as a capital asset. Discounted tax on long term versus short term gains is not an option. No deduction, except the cost of acquisition, will be allowed while reporting income from the transfer of digital assets.",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "question": [
+                            {
+                                "type": "heading2",
+                                "text": "Are crypto to crypto trades taxed?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "Yes. Any exchange of cryptocurrencies is a taxable event in India. For ex. if you exchange Bitcoin for Ripple, the ITD will treat this as a sale of Bitcoin at the market price of the XRP you received.",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "question": [
+                            {
+                                "type": "heading2",
+                                "text": "How are DeFi gains taxed?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "While the IDT has not released guidance on DeFi transactions specifically, DeFi profits are likely to be considered income and taxed at a flat Income Tax rate of 30%.",
+                                "spans": [
+                                    {
+                                        "start": 42,
+                                        "end": 61,
+                                        "type": "strong"
+                                    },
+                                    {
+                                        "start": 105,
+                                        "end": 123,
+                                        "type": "strong"
+                                    },
+                                    {
+                                        "start": 143,
+                                        "end": 166,
+                                        "type": "strong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "question": [
+                            {
+                                "type": "heading2",
+                                "text": "Which exchanges do you support?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "Koinly supports all of the top exchanges including those popular in India like Unocoin, WazirX, CoinDCX and Zebpay. Even margin trades and futures on Binance, Kraken & others are supported.",
+                                "spans": []
+                            }
+                        ]
+                    },
+                    {
+                        "question": [
+                            {
+                                "type": "heading1",
+                                "text": "How can Koinly help?",
+                                "spans": []
+                            }
+                        ],
+                        "answer": [
+                            {
+                                "type": "paragraph",
+                                "text": "Koinly automatically imports your transactions, finds all the market prices at the time of your trades, matches transfers between your own wallets, calculates your crypto gains/losses and generates your tax reports!",
+                                "spans": []
+                            }
+                        ]
+                    }
+                ],
+                "primary": {
+                    "linkText": "Learn about crypto taxes on our blog",
+                    "link": {
+                        "id": "YAAOsBAAAEqR7F5B",
+                        "type": "page",
+                        "tags": [],
+                        "lang": "en-gb",
+                        "slug": "blog-list-blog-folder",
+                        "first_publication_date": "2021-01-14T09:28:52+0000",
+                        "last_publication_date": "2021-02-09T10:14:31+0000",
+                        "uid": "blog",
+                        "link_type": "Document",
+                        "isBroken": false
+                    },
+                    "numberOfColumns": "3"
+                },
+                "slice_type": "faq_section",
+                "slice_label": null
+            }
+        ],
+        "meta_title": "Koinly: Crypto Tax Calculator for India",
+        "meta_description": "Calculate your Crypto Taxes in Minutes ⚡ Supports 600+ exchanges ᐉ Coinbase ✓ Binance ✓ ZebPay ✓ ITD compliant. ✅  View your taxes free.",
+        "no_index": true,
+        "canonical_url": {
+            "link_type": "Web",
+            "url": "https://koinly.io/au/"
+        },
+        "jsonld": [
+            {
+                "type": "preformatted",
+                "text": "{\r\n    \"@context\": \"https://schema.org\",\r\n    \"@type\": \"FAQPage\",\r\n    \"mainEntity\": [{\r\n        \"@type\": \"Question\",\r\n        \"name\": \"How do cryptocurrency taxes work?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"Crypto is taxed in the same way as Gold and real estate. When you sell or trade crypto you have to pay tax on the difference between the selling price and the price you bought it for (minus any exchange fees). This is known as a Capital Gains Tax and has to be paid in most countries such as the USA, India, Canada etc.\"\r\n        }\r\n    }, {\r\n        \"@type\": \"Question\",\r\n        \"name\": \"I only made a loss on cryptocurrencies, do I still have to file taxes?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"Yes. It doesn't matter if you only made losses, you still have to report it to your tax agency. In fact, it is in your best interests to report your losses as this is one of the best ways to reduce your crypto taxes in the future!\"\r\n        }\r\n    }, {\r\n        \"@type\": \"Question\",\r\n        \"name\": \"Are crypto to crypto trades taxed?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"Yes. Any exchange of cryptocurrencies is also a taxable event. For ex. if you exchange Bitcoin for Ripple, the IRS and other tax agencies will treat this as a sale of Bitcoin at the market price of the XRP you received.\"\r\n        }\r\n    }, {\r\n        \"@type\": \"Question\",\r\n        \"name\": \"How are Mining, Staking & Hard Forks taxed?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"The same way as regular income. For ex. if you receive 10 BCH as a result of the Bitcoin Cash fork then you will need to declare this as additional income, using the fair market value of the BCH at the time you received it.\"\r\n        }\r\n    }, {\r\n        \"@type\": \"Question\",\r\n        \"name\": \"How can I avoid paying tax on my Bitcoin trades?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"It's actually very difficult to avoid crypto taxes. Every time you transfer funds to an exchange you are leaving a papertrail that tax agencies can catch on to. In the past, exchanges like Coinbase and eToro have handed over data on thousands of users to tax authorities.\"\r\n        }\r\n    }, {\r\n        \"@type\": \"Question\",\r\n        \"name\": \"Do I have to pay tax if I transfer crypto from one wallet to another?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"No, you don't. As long as you own both wallets there's no tax to pay on transfers. However, you still have to keep track of the original cost of the transferred coins and have sufficient proof of it.\"\r\n        }\r\n    }, {\r\n        \"@type\": \"Question\",\r\n        \"name\": \"How can Koinly help?\",\r\n        \"acceptedAnswer\": {\r\n            \"@type\": \"Answer\",\r\n            \"text\": \"Koinly automatically imports your transactions, finds all the market prices at the time of your trades, matches transfers between your own wallets, calculates your crypto gains/losses and generates your tax reports!\"\r\n        }\r\n    }]\r\n}",
+                "spans": []
+            }
+        ]
+    }
+}
