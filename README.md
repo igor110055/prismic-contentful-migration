@@ -94,6 +94,8 @@ CONTENTFUL_SPACE_ENVIRONMENT
 
 Use the commands listed above to run the migration.
 
+The migration script maps through the Prismic content and create a Contentful JSON file, which is then imported to Contentful.
+
 The migration is rate limited by Contentful to 5 put requests per second.
 
 ## SAMPLE SHAPE OF PRISMIC REQUEST
