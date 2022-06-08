@@ -90,7 +90,9 @@ CONTENTFUL_SPACE_ID
 CONTENTFUL_SPACE_ENVIRONMENT
 ```
 
-#### 6. The migration will run
+#### 6. Run migration
+
+Use the commands listed above to run the migration.
 
 The migration is rate limited by Contentful to 5 put requests per second.
 
