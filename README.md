@@ -90,6 +90,10 @@ CONTENTFUL_SPACE_ID
 CONTENTFUL_SPACE_ENVIRONMENT
 ```
 
+#### 6. The migration will run
+
+The migration is rate limited by Contentful to 5 put requests per second.
+
 ## SAMPLE SHAPE OF PRISMIC REQUEST
 
 ```
