@@ -24,11 +24,9 @@ where `${lang}` is the language ID for a locale in Prismic
 
 ### Requirements:
 
-- Node JS 18
+- [Node JS 18](https://nodejs.org/en/download/current/)
 
-You can [get NodeJS 18 here](https://nodejs.org/en/download/current/).
-
-It is advised to use NVM to switch between versions. You can [get NVM here](https://github.com/nvm-sh/nvm).
+[Get NVM](https://github.com/nvm-sh/nvm) to manage versions if necessary.
 
 #### 1. Clone the Repository
 
